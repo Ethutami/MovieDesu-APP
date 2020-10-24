@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "934532950209",
+    "firebase_url": "https://ethuta-1a6b8.firebaseio.com",
+    "project_id": "ethuta-1a6b8",
+    "storage_bucket": "ethuta-1a6b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934532950209:android:ba132dca037da57db48c40",
+        "android_client_info": {
+          "package_name": "com.moviedesuapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934532950209-7ut3rvapodds8rtfu4oq7169rhj8pjdq.apps.googleusercontent.com", 
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBruXa-443j341OsHMLutApRbjenwJJSfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934532950209-7ut3rvapodds8rtfu4oq7169rhj8pjdq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
